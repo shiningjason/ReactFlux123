@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "2015年達暉資訊教育訓練 - React & Flux 123",
   "scripts": {
-    "slide": "gulp serve"
+    "start": "gulp serve"
   },
   "author": "shiningjason1989@gmail.com",
   "license": "MIT",
