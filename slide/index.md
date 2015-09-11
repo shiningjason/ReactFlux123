@@ -167,7 +167,7 @@ vv
 vv
 
 ## 3.1 Flux 概觀
-![flux](/images/flux.png)
+![flux](images/flux.png)
 
 vv
 
