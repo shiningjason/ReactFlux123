@@ -86,7 +86,7 @@ vv
 vv
 
 ## 1.6 本次的課程範例
-![mockup](/images/mockup.png)
+![mockup](images/mockup.png)
 
 >>
 
@@ -141,7 +141,7 @@ vv
 vv
 
 ## 2.7. 元件生命週期
-![react-lifecycle](/images/react-lifecycle.jpg)
+![react-lifecycle](images/react-lifecycle.jpg)
 
 vv
 
