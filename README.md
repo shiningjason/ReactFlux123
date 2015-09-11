@@ -1,5 +1,5 @@
 # 2015年達暉資訊教育訓練 - React & Flux 123
-這裡存放的是 React 系列教學的[投影片](https://shiningjason1989.github.io/ReactFlux123) 原始碼 : )
+這裡存放的是 React 系列教學的 [投影片](https://shiningjason1989.github.io/ReactFlux123) 原始碼 : )
 
 ## 相關連結
 1. [ReactTodosTutorial](https://shiningjason1989.github.io/ReactTodosTutorial): 教學範例  
