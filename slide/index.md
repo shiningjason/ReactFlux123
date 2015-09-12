@@ -172,22 +172,40 @@ vv
 vv
 
 ## 3.2 Flux / Dispatcher
-1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%237_flux_dispatcher)
+1. 新增 AppDispatcher:  
+繼承 flux 中的 dispatcher 實例
+
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%237_flux_dispatcher)
 
 vv
 
 ## 3.3 Flux / Actions
-1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%238_flux_actions)
+1. 新增 ActionTypes:  
+存放專案中的 action type 常數
+
+2. 新增 TodoActions:  
+主要工作是為建立 action 物件，並將 action 傳遞給 Dispatcher
+
+3. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%238_flux_actions)
 
 vv
 
 ## 3.4 Flux / Stores
-1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%239_flux_stores)
+1. 新增 TodoStore
+    1. 繼承 EventEmitter 的實例
+    2. 建立 addListener 和 removeListener 等便利的方法
+    3. 將待辦事項存放在該 store 中，並提供一個 getAll 的方法給外部
+    4. 根據 action type 處理業務邏輯，並修改待辦事項的值
+    5. 將 TodoStore 註冊到 AppDispatcher 中
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%239_flux_stores)
 
 vv
 
 ## 3.5 Flux / Controller-View
-1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2310_flux_controller_view)
+1. 修改 App 元件
+    1. 呼叫 TodoAction 來處理使用者操作行為
+    2. 傾聽 TodoStore 來修改內部的 state
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2310_flux_controller_view)
 
 vv
 
@@ -200,12 +218,18 @@ vv
 
 vv
 
-## 2.9 最後一大心法
+## 3.7 再看一次
+![flux](images/flux.png)
+
+vv
+
+## 3.8 最後大心法
 1. Single Source of Truth
 
 >>
 
 # 4. Container
+*// TODO*
 1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2311_container_pattern)
 
 >>
