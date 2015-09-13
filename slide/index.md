@@ -175,7 +175,7 @@ vv
 1. 新增 AppDispatcher:  
 繼承 flux 中的 dispatcher 實例
 
-2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%237_flux_dispatcher)
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%237_flux_dispatcher)
 
 vv
 
@@ -186,7 +186,7 @@ vv
 2. 新增 TodoActions:  
 主要工作是為建立 action 物件，並將 action 傳遞給 Dispatcher
 
-3. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%238_flux_actions)
+3. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%238_flux_actions)
 
 vv
 
@@ -197,7 +197,7 @@ vv
     3. 將待辦事項存放在該 store 中，並提供一個 getAll 的方法給外部
     4. 根據 action type 處理業務邏輯，並修改待辦事項的值
     5. 將 TodoStore 註冊到 AppDispatcher 中
-2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%239_flux_stores)
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%239_flux_stores)
 
 vv
 
@@ -205,7 +205,7 @@ vv
 1. 修改 App 元件
     1. 呼叫 TodoAction 來處理使用者操作行為
     2. 傾聽 TodoStore 來修改內部的 state
-2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2310_flux_controller_view)
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%2310_flux_controller_view)
 
 vv
 
