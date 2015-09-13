@@ -229,8 +229,8 @@ vv
 >>
 
 # 4. Container
-*// TODO*
-1. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2311_container_pattern)
+1. 建立 Component 的 Container，讓他們主要負責傾聽 Store 的變化，和維護內部的 State
+2. [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/blob/%2311_container_pattern)
 
 >>
 
@@ -242,6 +242,30 @@ vv
 
 >>
 
+> 延伸學習
+
+vv
+
+## 1. [Redux](https://github.com/rackt/redux)
+[範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%2314_redux_reducer)
+
+vv
+
+## 2. Isomorphic App
+
+>>
+
+> 結束了唷
+
+vv
+
+## Enjoy Javascript & React
+- [React Todos Tutorial](https://github.com/shiningjason1989/ReactTodosTutorial)
+- [React Native Todos](https://github.com/shiningjason1989/ReactNativeTodos)
+- [Exponent Todos](https://github.com/shiningjason1989/ExponentTodos)
+
+>>
+
 > 番外篇
 
 >>
@@ -250,4 +274,41 @@ vv
 
 vv
 
-*// TODO*
+## 為什麼我們喜歡 Native Apps
+1. 效能好
+2. 有原生的複雜手勢和柔順的動畫支援
+3. 用起來跟原生平台的感覺一致
+
+vv
+
+## 那對我這個開發者呢
+1. 我必須學習 iOS 和 Android
+2. 這兩者的開發觀念及語言特性都不太一樣
+3. 開發速度緩慢
+
+vv
+
+## 我是一個前端工程師
+1. 我熟悉 HTML/CSS/JS
+2. React 的開發觀念也是我熟悉的
+3. 我愛 Live reload 的開發模式
+4. React 讓我的 App 可以擴展
+
+vv
+
+## 那如果我寫 Hybrid App 呢
+1. 效能實在不怎麼理想
+2. 使用者經驗也不是很理想
+3. 無法在 WebView 中使用 Native 的元件
+
+vv
+
+## 所以，我服用了 React Native
+1. 開發經驗像前端工程
+2. 產出結果是 Native App
+
+vv
+
+## 參考
+1. [React Native: Under the Hood](https://speakerdeck.com/frantic/react-native-under-the-hood)
+2. [從「學習一次，隨處應用」談 React Native 帶來的開發與典範轉移](http://static.itho.me/modernweb/2015/slides/R0_0516_1330-1355_Jeremy%2%200Lu.pdf)
