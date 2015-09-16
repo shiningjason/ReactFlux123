@@ -242,24 +242,16 @@ vv
 
 >>
 
-> 延伸學習
-
-vv
-
-## 1. [Redux](https://github.com/rackt/redux)
-[範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%2314_redux_reducer)
-
-vv
-
-## 2. Isomorphic App
+# 101. 延伸學習
+1. [Redux](https://github.com/rackt/redux)
+    - [範例程式](https://github.com/shiningjason1989/ReactTodosTutorial/tree/%2314_redux_reducer)
+2. Isomorphic App
 
 >>
 
-> 結束了唷
+# THE END
+> Enjoy Javascript & React
 
-vv
-
-## Enjoy Javascript & React
 - [React Todos Tutorial](https://github.com/shiningjason1989/ReactTodosTutorial)
 - [React Native Todos](https://github.com/shiningjason1989/ReactNativeTodos)
 - [Exponent Todos](https://github.com/shiningjason1989/ExponentTodos)
@@ -270,7 +262,7 @@ vv
 
 >>
 
-# 1. React Native
+# a. React Native
 
 vv
 
