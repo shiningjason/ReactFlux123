@@ -303,4 +303,4 @@ vv
 
 ## 參考
 1. [React Native: Under the Hood](https://speakerdeck.com/frantic/react-native-under-the-hood)
-2. [從「學習一次，隨處應用」談 React Native 帶來的開發與典範轉移](http://static.itho.me/modernweb/2015/slides/R0_0516_1330-1355_Jeremy%2%200Lu.pdf)
+2. [從「學習一次，隨處應用」談 React Native 帶來的開發與典範轉移](http://static.itho.me/modernweb/2015/slides/R0_0516_1330-1355_Jeremy%20Lu.pdf)
